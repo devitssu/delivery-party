@@ -143,4 +143,5 @@ Temporary Items
 
 .idea
 .gradle
-src/main/resources/application.yml
+application.yml
+application-oauth.yml
